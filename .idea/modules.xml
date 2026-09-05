@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java New Folder.iml" filepath="$PROJECT_DIR$/.idea/Java New Folder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method_Overloading/Method_Overloading.iml" filepath="$PROJECT_DIR$/Method_Overloading/Method_Overloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method_Override/Method_Override.iml" filepath="$PROJECT_DIR$/Method_Override/Method_Override.iml" />
