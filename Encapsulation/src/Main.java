@@ -1,5 +1,7 @@
-public class Main{
-  public static void main(String[] args){
-
-  }
+public class Main {
+    public static void main(String[] args){
+        Student s1=new Student();
+        s1.setGender("male");
+        System.out.println("The gender is "+s1.getGender());
+    }
 }

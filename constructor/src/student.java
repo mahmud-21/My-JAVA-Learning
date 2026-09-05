@@ -1,11 +1,17 @@
 public class student {
     String name,gender;
-    int phone ;
-    //Method calling
-    void setInformation(String n,String g,int ph){
+    int phone;
+    student(){
+        System.out.println("No Infromation");
+    }
+    student(String n,String g){
         name=n;
         gender=g;
-        phone=ph;
+    }
+    student(String n,String g,int p){
+        name=n;
+        gender=g;
+        phone=p;
     }
     void displayInfo(){
         System.out.println("Name of the Student : "+name);
